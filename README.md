@@ -4,6 +4,10 @@ Redmine 正體中文（台灣，zh-TW）介面翻譯檔。
 
 Traditional Chinese (Taiwan, zh-TW) translation for [Redmine](https://www.redmine.org/).
 
+## 對應版本
+
+Traditional Chinese translation (to r21827)：翻譯內容同步至 Redmine 原始碼 r21827。
+
 ## 特色
 
 - 以 Redmine 內建的 `zh-TW.yml` 為基礎持續維護，修正未翻譯與用語不一致的字串
