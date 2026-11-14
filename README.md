@@ -6,7 +6,7 @@ Traditional Chinese (Taiwan, zh-TW) translation for [Redmine](https://www.redmin
 
 ## 對應版本
 
-Traditional Chinese translation (to r21827)：翻譯內容同步至 Redmine 原始碼 r21827。
+Traditional Chinese translation (to r25458)：翻譯內容同步至 Redmine 原始碼 r25458（7.0.3）。
 
 ## 特色
 
