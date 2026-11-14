@@ -172,6 +172,7 @@
         wrong_length: "字數錯誤（必須是 %{count} 個字）"
         taken: "已經被使用"
         not_a_number: "不是數字"
+        not_a_date: "不是有效的日期"
         greater_than: "必須大於 %{count}"
         greater_than_or_equal_to: "必須大於或等於 %{count}"
         equal_to: "必須等於 %{count}"
@@ -220,6 +221,9 @@
       #   user:
       #     login: "Handle"
       # will translate User attribute "login" as "Handle"
+    attributes:
+      "doorkeeper/application":
+        scopes: 權限範圍
 
   actionview_instancetag_blank_option: 請選擇
 
